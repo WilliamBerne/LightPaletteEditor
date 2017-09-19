@@ -25,7 +25,7 @@ How to use:
     FloorDiffuseColor
     FloorDyeColor1
      FloorDyeColor2
- FloorReflectionColor;
+ FloorReflectionColor
     FloorEmissionColor
 
     OutsideWallLightColor
